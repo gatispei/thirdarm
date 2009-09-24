@@ -1,0 +1,17 @@
+
+This is very basic and raw stuff, not quite usable
+
+
+to run:
+
+ruby ./extconf.rb
+make
+ruby ./plain
+
+
+
+to add automatic interactions edit plain.rb, see TerminalEventHandler class
+
+
+
+
